@@ -27,7 +27,7 @@ python -m pip install fastapi itsdangerous jinja2 "uvicorn[standard]"
 python -m uvicorn app.main:app --reload
 ```
 
-Then open: http://127.0.0.1:8000
+Then open: http://localhost:8000
 
 ## 🧱 Tech stack
 
